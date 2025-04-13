@@ -1,4 +1,7 @@
 # VSDSquadron FPGA Lab: Basic Message Display on RISC-V core
+<div align="center">
+  <img src="display_using_riscv.jpg" alt="RISC-V Logo" width="50%"/>
+</div>
 
 ## Prerequisites
 Install the following tools before proceeding:
