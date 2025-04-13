@@ -51,7 +51,10 @@ source ~/.bashrc
    ```bash
    cd ~/vsdfpga_labs/basicRISCV/Firmware
    nano riscv_logo.c  # Review and close (Ctrl+X)
+   make riscv_logo.bram.hex
    ```
+You should see the below messages
+
 
 2. Build the firmware and FPGA bitstream:
    ```bash
