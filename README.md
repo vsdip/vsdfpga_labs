@@ -36,12 +36,12 @@ source ~/.bashrc
 ## Hardware Connections
 | Source Component | Source Pin/Port | Destination Component       | Destination Pin/Port |
 |------------------|-----------------|------------------------------|----------------------|
-| CH340            | TX              | VSDSquadron FPGA Mini Board  | 3                    |
-| CH340            | RXD             | VSDSquadron FPGA Mini Board  | 4                    |
-| FPGA Board       | GND             | FPGA Board                   | 23                   |
+| CH340            | TX              | [VSDFPGA Board](https://www.vlsisystemdesign.com/vsdsquadronfm/)  | 3                    |
+| CH340            | RXD             | [VSDFPGA Board](https://www.vlsisystemdesign.com/vsdsquadronfm/)  | 4                    |
+| [VSDFPGA Board](https://www.vlsisystemdesign.com/vsdsquadronfm/)       | GND             | FPGA Board                   | 23                   |
 | CH340            | 3.3V            | CH340                        | VCC                  |
 
-- Connect the VSDSquadron FPGA mini board to one USB port.
+- Connect the [VSDSquadron FPGA mini](https://www.vlsisystemdesign.com/vsdsquadronfm/) board to one USB port.
 - Connect the CH340 module to another USB port.
 
 ---
