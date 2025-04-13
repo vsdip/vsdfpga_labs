@@ -72,7 +72,7 @@ source ~/.bashrc
    **Expected Output**:  
    You should see repeated messages containing RISC-V logo data (e.g., ASCII art patterns).
    ```
-   ![RISC-V Logo](./images/display_using_riscv.jpg)
+   ![RISC-V Logo](./master/display_using_riscv.jpg)
    ```
 
 3. Press `Ctrl+A → Ctrl+Q` to exit `picocom`.
