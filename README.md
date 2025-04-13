@@ -54,7 +54,7 @@ source ~/.bashrc
    make riscv_logo.bram.hex
    ```
 You should see the below messages
-
+![Make RISC-V output](make_riscv.jpg)
 
 2. Build the firmware and FPGA bitstream:
    ```bash
