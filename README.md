@@ -80,4 +80,4 @@ source ~/.bashrc
 1. If `/dev/ttyUSB0` is unavailable, update `PICO_DEVICE` in the `Makefile`.
 2. The RISC-V toolchain must be in your `PATH` (configured in prerequisites).
 3. Ensure all hardware connections match the table above for UART communication.
-```
+
