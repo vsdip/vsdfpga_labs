@@ -1,4 +1,3 @@
-```markdown
 # VSDSquadron FPGA Lab: RISC-V Logo Display
 
 ## Prerequisites
@@ -19,7 +18,6 @@ wget "https://static.dev.sifive.com/dev-tools/riscv64-unknown-elf-gcc-8.3.0-2019
 tar -xvzf riscv64-unknown-elf-gcc-*.tar.gz
 echo 'export PATH=$HOME/riscv_toolchain/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-linux-ubuntu14/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
-```
 
 ---
 
