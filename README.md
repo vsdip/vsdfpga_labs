@@ -1,4 +1,4 @@
-# VSDSquadron FPGA Lab: RISC-V Logo Display
+# VSDSquadron FPGA Lab: Basic Message Display on RISC-V core
 
 ## Prerequisites
 Install the following tools before proceeding:
